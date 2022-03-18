@@ -1,4 +1,4 @@
-**# Batocera Raspberry Pi 3B Plus**
+**Batocera Raspberry Pi 3B Plus**
 
 **OBJETIVO**:
 Adicionar e implementar atualizações (upgrade e downgrade) de emuladores especificamente presente na imagem "Batocera 29" para Raspberry Pi 3B (deve servir na versão 3B+).
