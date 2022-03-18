@@ -1,1 +1,1 @@
-# Batocera-Raspberry-Pi-3B-Plus
+# Batocera Raspberry Pi 3B Plus
