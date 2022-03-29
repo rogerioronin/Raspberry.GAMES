@@ -45,3 +45,8 @@ Atualizado DevilutionX (Diablo + Hellfire) to 1.2.1.
 Adicionado o Drastic versão r2.5.0.4 com suporte a jogos compactados em .7zip e .zip.
 
 OBSERVAÇÂO: Eu uso um controle de Playstation 3, então consequentemente o "Drastic" esta configurado para suportar cntrole de Playsatation 3, se você usa um controle diferente, configure conforme seu gosto (existe alguns tutoriais na internet explicando como configurar "controle no drastc").
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                            **Batocera RPI 3b (v30 r0.1c)**
+                                                           BAIXE AQUI https://bityli.com/Qnwew
