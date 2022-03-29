@@ -23,6 +23,20 @@ OBERVAÇÃO: Apesar dos núcleos estarem atualizados, eles marcam como versão 1
 
 IMPORTANTE: Caso encontre algum núcleo que não esteja funcionando, avise. Não testei todos os núcleos (apesar de ter atualizado todos).
 
+- dosbox_pure_libretro.so
+- fceumm_libretro.so
+- flycast_libretro.so
+- genesisplusgx_libretro.so
+- mgba_libretro.so
+- nestopia_libretro.so
+- np2kai_libretro.so
+- pce_fast_libretro.so
+- snes9x_libretro.so
+- bluemsx_libretro.so
+- gambatte_libretro.so
+- pcsx_rearmed_libretro.so
+- picodrive_libretro.so
+
 **DevilutionX**:
 Atualizado DevilutionX (Diablo + Hellfire) to 1.2.1
 
