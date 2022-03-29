@@ -16,6 +16,13 @@ Você possui conhecimento e deseja ajudar no projeto, mande um e-mail para "roge
 
 **ATUALIZAÇÔES PRESENTES NA REVISÃO 0.1**
 
+**Libretro (Retroarch)**:
+Atualizado todos os núcleos com base no "Lakka 4.0" (Retroarch v1.10.1),
+
+OBERVAÇÃO: Apesar dos núcleos estarem atualizados, eles marcam como versão 1.9.0
+
+IMPORTANTE: Caso encontre algum núcleo que não esteja funcionando, avise. Não testei todos os núcleos (apesar de ter atualizado todos).
+
 **DevilutionX**:
 Atualizado DevilutionX (Diablo + Hellfire) to 1.2.1
 
