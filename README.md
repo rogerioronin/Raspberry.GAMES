@@ -48,6 +48,6 @@ OBSERVAÇÂO: Eu uso um controle de Playstation 3, então consequentemente o "Dr
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Batocera RPI 3b (v30 r0.1c)
+**Batocera RPI 3b (v30 r0.1c)**
 
-BAIXE AQUI https://bityli.com/Qnwew
+**BAIXE AQUI** https://bityli.com/Qnwew
