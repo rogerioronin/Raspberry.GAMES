@@ -17,25 +17,24 @@ Você possui conhecimento e deseja ajudar no projeto, mande um e-mail para "roge
 **ATUALIZAÇÔES PRESENTES NA REVISÃO 0.1**
 
 **Libretro (Retroarch)**:
-Atualizado todos os núcleos com base no "Lakka 4.0" (Retroarch v1.10.1),
 
-OBERVAÇÃO: Apesar dos núcleos estarem atualizados, eles marcam como versão 1.9.0
+Eu atualizei alguns núcleos usando como base o Lakka v4.0 (Retroarch 1.10.1), ou ao menos acho eu que atualizei, digo isso porque eu substitui os seguintes núcleos:
 
-IMPORTANTE: Caso encontre algum núcleo que não esteja funcionando, avise. Não testei todos os núcleos (apesar de ter atualizado todos).
+- **blueMSX** (bluemsx_libretro.so)
+- **DOsbox Pure** (dosbox_pure_libretro.so)
+- **FCEUmm** (fceumm_libretro.so)
+- **Flycast** (flycast_libretro.so)
+- **Gambatte** (gambatte_libretro.so)
+- **Genesis Plus GX** (genesisplusgx_libretro.so)
+- **mGBA** (mgba_libretro.so)
+- **Nestopia** (nestopia_libretro.so)
+- **Neko Project II Kai** (np2kai_libretro.so)
+- **PCE Fast** (pce_fast_libretro.so)
+- **PCSX ReARMed** (pcsx_rearmed_libretro.so)
+- **PicoDrive** (picodrive_libretro.so)
+- **Snes9x** (snes9x_libretro.so)
 
-- dosbox_pure_libretro.so
-- fceumm_libretro.so
-- flycast_libretro.so
-- genesisplusgx_libretro.so
-- mgba_libretro.so
-- nestopia_libretro.so
-- np2kai_libretro.so
-- pce_fast_libretro.so
-- snes9x_libretro.so
-- bluemsx_libretro.so
-- gambatte_libretro.so
-- pcsx_rearmed_libretro.so
-- picodrive_libretro.so
+que estavam em "**usr/lib/libretro**", no entanto apesar de eu ter atualizado todos os núcleos indicados, se você conferir a versão do Retroarch que indica, por algum motivo vai marcar a versão 1.9.0, que é a versão original do Batocera 30, resumindo apesar de eu atualizar (ou ao menos acho que atualizei), não consigo fazer mostrar a versão real do Retroarch.
 
 **DevilutionX**:
 Atualizado DevilutionX (Diablo + Hellfire) to 1.2.1
