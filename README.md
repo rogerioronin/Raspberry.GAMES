@@ -36,11 +36,10 @@ Eu atualizei alguns núcleos usando como base o Lakka v4.0 (Retroarch 1.10.1), o
 
 que estavam em "**usr/lib/libretro**", no entanto apesar de eu ter atualizado todos os núcleos indicados, se você conferir a versão do Retroarch que indica, por algum motivo vai marcar a versão 1.9.0, que é a versão original do Batocera 30, resumindo apesar de eu atualizar (ou ao menos acho que atualizei), não consigo fazer mostrar a versão real do Retroarch.
 
-                                                                      ---------------
+
 **DevilutionX**:
 Atualizado DevilutionX (Diablo + Hellfire) to 1.2.1.
 
-                                                                      ---------------
 
 **Drastic**:
 Adicionado o Drastic versão r2.5.0.4 com suporte a jogos compactados em .7zip e .zip.
