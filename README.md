@@ -38,7 +38,7 @@ que estavam em "**usr/lib/libretro**", no entanto apesar de eu ter atualizado to
 
 
 **DevilutionX**:
-Atualizado DevilutionX (Diablo + Hellfire) to 1.2.1.
+Atualizado DevilutionX (Diablo + Hellfire) to 1.3.0.
 
 
 **Drastic**:
