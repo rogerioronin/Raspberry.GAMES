@@ -51,6 +51,6 @@ Fiz o downgrade do PPSSPP para a versão 1.5.4, pois nos meus testes essa foi a 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Batocera RPI 3b versão 30 revisão 0.1c**
+**Batocera RPI 3b versão 30 revisão 0.2**
 
-**BAIXE AQUI** https://bityli.com/Qnwew
+**BAIXE AQUI** https://bityli.com/PSNQE
