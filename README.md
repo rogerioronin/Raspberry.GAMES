@@ -4,7 +4,7 @@
 Adicionar e implementar atualizações (upgrade e downgrade) de emuladores especificamente presente na imagem "Batocera 30" para Raspberry Pi 3B (deve servir na versão 3B+).
 
 **BATOCERA 30**:
-Uso a versão do Batocera 30 para Raspberry Pi 3B porque segundo meus testes foi a versão com melhor desempenho (meus testes foram feitos em meados de 10/03/2022), claro segundo meu ponto de vista.
+Uso a versão do Batocera 30 para Raspberry Pi 3B porque segundo meus testes esta versão possui um ótimo desempenho (meus testes foram feitos em meados de 10/03/2022) e possui a vantagem de poder ser executado apartir de um Pendrive.
 
 **IMPORTANTE**:
 Não possuo conhecimento em programação, isso acarreta no problema de que algumas implementações que eu acho importante, não será possível sem ajuda.
@@ -18,15 +18,17 @@ Você possui conhecimento e deseja ajudar no projeto, mande um e-mail para "roge
 
 **Libretro (Retroarch)**:
 
-Eu atualizei alguns núcleos usando como base o Lakka v4.0 (Retroarch 1.10.1), ou ao menos acho eu que atualizei, digo isso porque eu substitui os seguintes núcleos:
+Eu atualizei alguns núcleos usando como base o Lakka v4.1 (Retroarch 1.10.1), ou ao menos acho eu que atualizei, digo isso porque eu substitui os seguintes núcleos:
 
 - **blueMSX** (bluemsx_libretro.so)
 - **DOsbox Pure** (dosbox_pure_libretro.so)
 - **FCEUmm** (fceumm_libretro.so)
-- **Flycast** (flycast_libretro.so)
+- **Flycast** (flycast_libretro.so) 
+OBSERVAÇÂO: Na atualização do emulador Flycast usei o núcleo presente no Batocera versão 31, pois o presente na ultima versão do Lakka não funcionou.
 - **Gambatte** (gambatte_libretro.so)
 - **Genesis Plus GX** (genesisplusgx_libretro.so)
 - **mGBA** (mgba_libretro.so)
+- mrboom_libretro.so
 - **Nestopia** (nestopia_libretro.so)
 - **Neko Project II Kai** (np2kai_libretro.so)
 - **PCE Fast** (pce_fast_libretro.so)
