@@ -28,15 +28,19 @@ OBSERVAÇÂO: Na atualização do emulador Flycast usei o núcleo presente no Ba
 - **Gambatte** (gambatte_libretro.so)
 - **Genesis Plus GX** (genesisplusgx_libretro.so)
 - **mGBA** (mgba_libretro.so)
-- mrboom_libretro.so
+- **Mr.Boom** (mrboom_libretro.so)
 - **Nestopia** (nestopia_libretro.so)
 - **Neko Project II Kai** (np2kai_libretro.so)
 - **PCE Fast** (pce_fast_libretro.so)
 - **PCSX ReARMed** (pcsx_rearmed_libretro.so)
 - **PicoDrive** (picodrive_libretro.so)
+- **PrBoom** (prboom_libretro.so)
+- **QUASI88** (quasi88_libretro.so)
 - **Snes9x** (snes9x_libretro.so)
+- **Stella** (stella_libretro.so)
+- **TGB Dual** (tgbdual_libretro.so)
 
-que estavam em "**usr/lib/libretro**", no entanto apesar de eu ter atualizado todos os núcleos indicados, se você conferir a versão do Retroarch que indica, por algum motivo vai marcar a versão 1.9.0, que é a versão original do Batocera 30, resumindo apesar de eu atualizar (ou ao menos acho que atualizei), não consigo fazer mostrar a versão real do Retroarch.
+que estavam em "**usr/lib/libretro**", no entanto, apesar de eu ter atualizado todos os núcleos indicados, se você conferir a versão do Retroarch que indica, por algum motivo vai marcar versão 1.9.0, que é a versão original do Batocera 30, resumindo apesar de eu atualizar (ou ao menos acho que atualizei), não consigo fazer mostrar a versão real do Retroarch.
 
 
 **DevilutionX**:
