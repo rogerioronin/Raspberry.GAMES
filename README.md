@@ -4,7 +4,7 @@
 Adicionar e implementar atualizações (upgrade e downgrade) de emuladores especificamente presente na imagem "Batocera 5.27.2" para Raspberry Pi 3B (deve servir na versão 3B+).
 
 **BATOCERA 5.27.2**:
-Uso a versão do Batocera 30 para Raspberry Pi 3B porque segundo meus testes esta versão possui um ótimo desempenho (meus testes foram feitos em meados de 10/03/2022) e possui a vantagem de poder ser executado apartir de um Pendrive.
+Uso a versão do Batocera 5.27.2 para Raspberry Pi 3B porque segundo meus testes esta versão possui um ótimo desempenho (meus testes foram feitos em meados de 10/03/2022) e possui a vantagem de poder ser executado apartir de um Pendrive com algumas leves modificações.
 
 **IMPORTANTE**:
 Não possuo conhecimento em programação, isso acarreta no problema de que algumas implementações que eu acho importante, não será possível sem ajuda.
