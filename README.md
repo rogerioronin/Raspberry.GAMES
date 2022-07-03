@@ -24,7 +24,7 @@ OBSERVAÇÂO: Eu uso um controle de Playstation 3, então consequentemente o "Dr
 **PPSSPP**:
 Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa foi a versão que melhor funcionou no Batocera compativel com Raspberry Pi 3b.
 
-Retroarch
+**Retroarch**:
 - Adicionado o núcleo FBAlpha-libretro (Final Burn Alpha 2012).
 
 
