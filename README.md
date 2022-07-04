@@ -28,6 +28,9 @@ Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa 
 - Adicionado o núcleo FBAlpha-libretro (Final Burn Alpha 2012).
 
 
+**Shader (Filtro)**:
+- Personalizei a opção "FILTROS DE IMAGEM => MELHORADO" para uma do meu agrado (espero que gostem).
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Batocera RPI 3b versão 5.27.2 revisão 0.1** (Primeira versão definitiva)
