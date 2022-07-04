@@ -19,7 +19,7 @@ Você possui conhecimento e deseja ajudar no projeto, mande um e-mail para "roge
 **Drastic**:
 Adicionado o Drastic versão r2.5.0.4 com suporte a jogos compactados em .7zip e .zip.
 
-OBSERVAÇÂO: Eu uso um controle de Playstation 3, então consequentemente o "Drastic" esta configurado para suportar cntrole de Playsatation 3, se você usa um controle diferente, configure conforme seu gosto (existe alguns tutoriais na internet explicando como configurar "controle no drastc").
+**OBSERVAÇÂO**: Eu uso um controle de Playstation 3, então consequentemente o "Drastic" esta configurado para suportar cntrole de Playsatation 3, se você usa um controle diferente, configure conforme seu gosto (existe alguns tutoriais na internet explicando como configurar "controle no drastc").
 
 **PPSSPP**:
 Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa foi a versão que melhor funcionou no Batocera compativel com Raspberry Pi 3b.
