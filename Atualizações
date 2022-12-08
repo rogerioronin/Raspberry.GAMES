@@ -1,0 +1,16 @@
+Batocera RPI 3b (v5.27.2 r0.2)
+
+
+CORREÇÃO CRITICA:
+- Corrigido o arquivo es_systems.cfg do EmulationStation para que o emulador FBAlpha-libretro funcione corretamente.
+
+CORREÇÔES PSCX-REARMED:
+- Desabilitado "Filtros de imagem".
+- Formato de tela em "automático".
+- Habilitado a opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Speed Hack)" em "Menu Rapído" => "Opções".
+OBSERVAÇÕES: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Speed Hack)" melhora bastante a resolução dos jogos de Playstation, no entanto pode fazer com que alguns jogos não funcione em velocidade plena, caso este problema ocorra você tera que desabilitar ambas as opções para o jogo em especifico. Outro problema é que não poderá habilitar filtros de imagem quando ambas as opções estão habilitadas. 
+
+CORREÇÕES MENORES:
+- Desabilitado "Overclocking"
+- Modo de economia de energia "desabilitado"
+- Opções da interface, Iniciar no sistema "Favorito".
