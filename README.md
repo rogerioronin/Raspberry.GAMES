@@ -11,12 +11,11 @@ Não possuo conhecimento em programação, isso acarreta no problema de que algu
 
 **SEJA UM COLABORADOR**:
 Você possui conhecimento e deseja ajudar no projeto, mande um e-mail para "rogerioronin@hotmail.com".
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+**ATUALIZAÇÔES PRESENTES NESTA VERSÃO DO BATOCERA**
 
-**ATUALIZAÇÔES PRESENTES NA REVISÃO 0.1**
-
-**Drastic**:
+**DRASTIC**:
 Adicionado o Drastic versão r2.5.0.4 com suporte a jogos compactados em .7zip e .zip.
 
 **OBSERVAÇÂO**: Eu uso um controle de Playstation 3, então consequentemente o "Drastic" esta configurado para suportar controle de Playsatation 3, se você usa um controle diferente, configure conforme seu gosto (existe alguns tutoriais na internet explicando como configurar "controle no drastic").
@@ -24,15 +23,15 @@ Adicionado o Drastic versão r2.5.0.4 com suporte a jogos compactados em .7zip e
 **PPSSPP**:
 Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa foi a versão que melhor funcionou no Batocera compativel com Raspberry Pi 3b.
 
-**Retroarch**:
+**RETROARCH**:
 - Adicionado o núcleo FBAlpha-libretro (Final Burn Alpha 2012).
-
+- Atualizado alguns núcleos.
 
 **Shader (Filtro)**:
 - Personalizei a opção "FILTROS DE IMAGEM => MELHORADO" para uma do meu agrado (espero que gostem).
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Batocera RPI 3b versão 5.27.2 revisão 0.1** (Primeira versão definitiva)
+**Batocera RPI 3b versão 5.27.2 revisão 0.2**
 
-**BAIXE AQUI** https://1drv.ms/u/s!Apbnc3VnDsw9cEexSVHU6myLark?e=htMaTL
+**BAIXE AQUI** bit.ly/3ux9Can
