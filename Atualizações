@@ -1,16 +1,36 @@
-Batocera RPI 3b (v5.27.2 r0.2)
+**ATUALIZAÇÔES PRESENTES NA REVISÃO 0.1**
 
 
-CORREÇÃO CRITICA:
+**Drastic**:
+Adicionado o Drastic versão r2.5.0.4 com suporte a jogos compactados em .7zip e .zip.
+
+**OBSERVAÇÂO**: Eu uso um controle de Playstation 3, então consequentemente o "Drastic" esta configurado para suportar controle de Playsatation 3, se você usa um controle diferente, configure conforme seu gosto (existe alguns tutoriais na internet explicando como configurar "controle no drastic").
+
+**PPSSPP**:
+Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa foi a versão que melhor funcionou no Batocera compativel com Raspberry Pi 3b.
+
+**Retroarch**:
+- Adicionado o núcleo FBAlpha-libretro (Final Burn Alpha 2012).
+
+
+**Shader (Filtro)**:
+- Personalizei a opção "FILTROS DE IMAGEM => MELHORADO" para uma do meu agrado (espero que gostem).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**ATUALIZAÇÔES PRESENTES NA REVISÃO 0.2**
+
+
+**CORREÇÃO CRITICA**:
 - Corrigido o arquivo es_systems.cfg do EmulationStation para que o emulador FBAlpha-libretro funcione corretamente.
 
-CORREÇÔES PSCX-REARMED:
+**CORREÇÔES PSCX-REARMED**:
 - Desabilitado "Filtros de imagem".
 - Formato de tela em "automático".
 - Habilitado a opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Speed Hack)" em "Menu Rapído" => "Opções".
 OBSERVAÇÕES: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Speed Hack)" melhora bastante a resolução dos jogos de Playstation, no entanto pode fazer com que alguns jogos não funcione em velocidade plena, caso este problema ocorra você tera que desabilitar ambas as opções para o jogo em especifico. Outro problema é que não poderá habilitar filtros de imagem quando ambas as opções estão habilitadas. 
 
-CORREÇÕES MENORES:
+**CORREÇÕES MENORES**:
 - Desabilitado "Overclocking"
 - Modo de economia de energia "desabilitado"
 - Opções da interface, Iniciar no sistema "Favorito".
