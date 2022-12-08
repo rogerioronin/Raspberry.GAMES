@@ -1,3 +1,12 @@
-1° É importante expandir a particão "SHARE", de uma pesquisada na internet que existe muitos bons tutoriais.
+1°  EXPANSÂO DA PARTIÇÃO "SHARE"
+É importante expandir a partição "SHARE", de uma pesquisada na internet que existe muitos bons tutoriais.
+
+BIOS (SOBRE AS BIOS)
 2° Todas as bios já estão na imagem.
-3° A versão 5.27.2 do Batocera possui suporte a boot (inicializaão) por Mídias USB (Pendrive e HD's Externo por exemplo), pesquise como fazer o Raspberry OS (antigo raspbian) iniciar por USB, caso o Raspberry OS (antigo Raspbian OS) inicie por USB com certeza o Batocera também irá.  
+
+INICIAR O BATOCERA POR MÍDIA USB
+3° A versão 5.27.2 do Batocera possui suporte a boot (inicialização) por Mídias USB (Pendrive e HD's Externo por exemplo), pesquise como fazer o Raspberry OS (antigo raspbian) iniciar por USB, caso o Raspberry OS (antigo Raspbian OS) inicie por USB com certeza o Batocera também irá.  
+
+PSCX-REARMED (APRESENTANDO LENTIDÃO)
+4° Eu Habilitei a opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Speed Hack)" em "Menu Rápido" => "Opções".
+IMPORTANTE: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Speed Hack)" melhora bastante a resolução dos jogos de Playstation, no entanto pode fazer com que alguns jogos não funcione em velocidade plena, caso este problema ocorra você tera que desabilitar ambas as opções para o jogo em especifico. Outro problema é que não poderá habilitar filtros de imagem quando ambas as opções estão habilitadas.
