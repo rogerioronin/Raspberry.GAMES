@@ -34,4 +34,4 @@ Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa 
 
 **Batocera RPI 3b versão 5.27.2 revisão 0.2**
 
-**BAIXE AQUI** bit.ly/3ux9Can
+**BAIXE AQUI** https://bit.ly/3ux9Can
