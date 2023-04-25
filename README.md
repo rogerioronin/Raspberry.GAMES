@@ -28,6 +28,7 @@ Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa 
 
 **RETROARCH**:
 - Adicionado o núcleo FBAlpha-libretro (Final Burn Alpha 2012).
+- Adicionado alguns RetroArch diversos.
 - Atualizado alguns núcleos.
 
 **Shader (Filtro)**:
@@ -37,6 +38,6 @@ Fiz uma atualização do PPSSPP para a versão 1.5.4, pois nos meus testes essa 
 
 
 
-**Batocera RPI 3b versão 5.27.2 revisão 0.2**
+**Batocera RPI 3b versão 5.27.2 revisão 0.2.1**
 
-**BAIXE AQUI** https://drive.google.com/file/d/1U0FWxDKi5IQ0UFIHaqKPTzgu7v4BeLl-/view?usp=sharing
+**BAIXE AQUI** https://1drv.ms/u/s!Apbnc3VnDsw9gQoDbbMsDBg70qhF?e=Y7fGks
