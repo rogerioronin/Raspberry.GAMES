@@ -34,3 +34,17 @@ OBSERVAÇÕES: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Sp
 - Desabilitado "Overclocking"
 - Modo de economia de energia "desabilitado"
 - Opções da interface, Iniciar no sistema "Favorito".
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**ATUALIZAÇÔES PRESENTES NA REVISÃO 0.2.1**
+
+
+**CORREÇÃO CRITICA**:
+- Corrigido problema do núcleo "SNES9x Libretro" que não iniciciava (ele foi adicionado como núcleo padrão de Super Nintendo).
+
+**CORREÇÕES**:
+- Atualizado diversos núcleos Retroarch.
+
+**CORES ADICIONADOS**:
+- Adicionado alguns cores.
