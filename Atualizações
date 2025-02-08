@@ -58,3 +58,4 @@ OBSERVAÇÕES: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Sp
 
 **OTIMIZAÇÃO FLYCAST**:
 - Mudei o driver de audio para "alsathread".
+- Mudei a linguagem nativa dos jogos como padrão para "espanhol".
