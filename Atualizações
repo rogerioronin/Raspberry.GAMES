@@ -55,3 +55,6 @@ OBSERVAÇÕES: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Sp
 
 **CORREÇÃO CRITICA**:
 - Corrigido o problema do emulador "o Drastic versão r2.5.0.4" não iniciciar.
+
+**OTIMIZAÇÃO FLYCAST**:
+- Mudei o driver de audio para "alsathread".
