@@ -59,3 +59,14 @@ OBSERVAÇÕES: A opção "Enhanced Resolution (Slow)" e "Enhanced Resolution (Sp
 **OTIMIZAÇÃO FLYCAST**:
 - Mudei o driver de audio para "alsathread".
 - Mudei a linguagem nativa dos jogos como padrão para "espanhol".
+
+
+**OTIMIZAÇÃO FLYCAST**:
+- Mudei o driver de audio para "alsathread".
+- Mudei a linguagem nativa dos jogos como padrão para "espanhol".
+
+**OTIMIZAÇÃO FINALBURN NEO**:
+- Mudei a proporção do video para "Core provided".
+
+**OTIMIZAÇÃO FB ALPHA 2012**:
+- Mudei a proporção do video para "Core provided".
